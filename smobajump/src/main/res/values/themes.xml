@@ -1,0 +1,7 @@
+<resources>
+
+    <!--设置-全屏-->
+    <style name="myTheme" parent="android:Theme.DeviceDefault.Light">
+    </style>
+
+</resources>
